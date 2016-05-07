@@ -11,11 +11,11 @@ public class main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		header();
-		print("Yunhang Jiang,");
-		print("Chenwei qiu,");
-		print("Xufang guo,");
-		print("Tzu-Chien Lu,");
-		print("Isaiah Forward.");
+		println("Yunhang Jiang,");
+		println("Chenwei qiu,");
+		println("Xufang guo,");
+		println("Tzu-Chien Lu,");
+		println("Isaiah Forward.");
 	}
 	
 	/**
