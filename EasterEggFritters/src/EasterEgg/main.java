@@ -9,7 +9,6 @@ public class main {
 	 * Here is the main calss to make sure print our team name and members name
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		header();
 		print("Yunhang Jiang,");
 		print("Chenwei qiu,");
